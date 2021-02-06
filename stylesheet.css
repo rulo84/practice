@@ -1,5 +1,8 @@
 body {
     background-image: url("/img/geekwise-stay-healthy.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #0299C4;
 }
 
 * {
